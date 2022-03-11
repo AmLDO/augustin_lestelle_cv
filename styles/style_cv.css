@@ -1,0 +1,30 @@
+@import url("en_tete.css");
+@import url("contact.css");
+@import url("information.css");
+@import url("cards.css");
+
+a{
+	text-decoration: none;
+	color: whie;
+}
+a:hover{
+	color: #CBB5A5;
+}
+
+h1{
+	color: white;
+}
+h2{
+	color: #82705D;
+}
+
+h3{
+	color: #82705D;
+}
+
+body{
+	background-image: url(../images_cv/background.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;	
+}

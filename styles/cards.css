@@ -1,0 +1,43 @@
+#cards{
+	display: flex;
+	justify-self: space-around;
+	align-items: flex-start;
+}
+
+#card{
+	background-color: white;
+	text-align: left;
+	padding: 16px;
+	border-radius: 4px;
+	margin: 10px;
+	box-shadow: 1px 1px 5px 6px rgba(0, 0, 0, 0.3);
+}
+
+#card-interet{
+	background-color: #B79480;
+	border-radius: 8px;
+	padding: 8px;	
+	margin: 10px auto;
+}
+
+#cards-interet{
+	display: flex;
+	justify-self: space-around;
+	align-items: flex-start;
+	flex-wrap: wrap;
+}
+
+#card-competence{
+	background-color: #CDB8A6;
+	border-radius: 8px;
+	padding: 8px;	
+	margin: 10px auto;
+}
+
+#cards-competences{
+	display: flex;
+	justify-self: space-around;
+	align-items: flex-start;
+	flex-wrap: wrap;
+
+}

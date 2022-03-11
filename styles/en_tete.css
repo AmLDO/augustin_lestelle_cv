@@ -1,0 +1,40 @@
+#en_tete{
+	background-color: #d2c8bcd9;
+	padding: 8px 16px;
+	width: 80%;
+	margin: 16px auto;
+	border-radius: 6px;
+	box-shadow: 4px 4px 9px 2px #0000008c;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+#portrait{
+	width: 170px;
+	height: 170px;
+	object-fit: cover;
+	border-radius: 80%;
+	border-color: #82705D;
+	border-style: solid;
+	border-width: 3px;
+	display: flex;
+	order: 2;
+}
+
+#nom{
+	display: flex;
+
+}
+
+#niveau{
+	display: flex;
+
+}
+
+#presentation{
+	color: white;
+	display: flex;
+	align-self: flex-end;
+	justify-content: flex-start;
+}
